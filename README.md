@@ -5,4 +5,4 @@
 ## About app
 
 Designed for mobile and desktop views.
-[If you want to see last version, you can visit site the link which is here: ]()
+If you want to see last version, you can visit site the link which is here: [https://advice-generator-by-shehla.netlify.app/](https://advice-generator-by-shehla.netlify.app/)
